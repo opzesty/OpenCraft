@@ -8,3 +8,6 @@ Today I will start in earnest.  Figuring out what is available  through the ~~[B
  - [ ] Download and build ~~s2client-api~~ [s2client-proto](https://github.com/Blizzard/s2client-proto) on Windows'
  - [ ] Stub out architecture.md
  - [ ] Use it to open a Custom Game of Starcraft with whatever options are available
+
+## April 24 -- Further refine problems
+ - [ ] Found [sc2arcade.com](https://sc2arcade.com/map) as a potential source for maps
